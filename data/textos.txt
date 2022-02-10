@@ -1,0 +1,26 @@
+te encontras adentro de una caja
+¿Salis?
+salís a recorrer la ciudad
+un perro empieza a oler la caja y salís corriendo
+tenes hambre así que vas a buscar comida
+¿Vas a buscar comida?
+seguis recorriendo la ciudad
+te agarra mucho hambre
+¿Vas a buscar comida?
+te metes en la casa de una señora y te saca a escobazos
+seguís buscando comida y encontras pochoclos en el piso de una plaza
+se hace de noche
+¿Vas a dormir?
+vagas por la ciudad
+cruzas la calle y un auto te pasa por arriba
+te dormis abajo de un banco
+es de mañana y la plaza está llena de gente
+¿Salis?
+una nena te encuentra y te lleva a su casa
+un perro te comienza a perseguir
+ves la puerta de de una casa abierta
+¿Te metes?
+el perro te acorrala
+¿Peleas?
+los ruidos llaman la atención de una señora quien te salva
+te adoptan
